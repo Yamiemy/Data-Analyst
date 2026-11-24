@@ -1,0 +1,6 @@
+{
+  "name": "DataMind AI",
+  "description": "Intelligent Data Analyst Workspace for exploring, cleaning, visualizing, and analyzing datasets with natural language and deterministic computation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
